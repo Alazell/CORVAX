@@ -1,5 +1,6 @@
 ent-DrinkCartonBaseFull = { ent-DrinkBase }
     .desc = { ent-DrinkBase.desc }
+    .suffix = Полный
 ent-DrinkCartonBaseLargeFull = { ent-DrinkCartonBaseFull }
     .desc = { ent-DrinkCartonBaseFull.desc }
 ent-DrinkCartonVisualsOpenable = { "" }
@@ -10,8 +11,8 @@ ent-DrinkJuiceOrangeCarton = апельсиновый сок
     .desc = Полное витаминов удовольствие!
 ent-DrinkJuiceTomatoCarton = томатный сок
     .desc = Ну, по крайней мере, это ВЫГЛЯДИТ как томатный сок. По этой красноте ничего не скажешь.
-ent-DrinkCoconutWaterCarton = coconut water
-    .desc = It's the inside of the coconut that counts.
+ent-DrinkCoconutWaterCarton = кокосовая вода
+    .desc = Главное - это внутренняя часть кокоса.
 ent-DrinkCreamCarton = молочные сливки
     .desc = Это сливки. Сделанные из молока. Что ещё вы ожидали здесь найти?
 ent-DrinkMilkCarton = молоко
